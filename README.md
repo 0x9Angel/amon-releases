@@ -17,4 +17,4 @@ Les messages sont chiffrés de bout en bout (X3DH + double cliquet). L'**anonyma
 
 Binaires uniquement ici : le code de l'application reste privé. Le relais Gotham, lui, est libre sous AGPL — [0x9Angel/gotham-relay](https://github.com/0x9Angel/gotham-relay) — pour que n'importe qui puisse en faire tourner un et vérifier ce qu'il fait.
 
-Un problème, une question : [signaler](https://github.com/0x9Angel/gotham/issues).
+Un problème, une question : [signaler](https://github.com/0x9Angel/gotham/issues), ou écrire à **SoraCorporation@proton.me**.
